@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+include:          ['_pages']
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Intermediate Greek 2
+tagline:          'GREK 214'
+course_number:    'GREK 214'
+section_number:   '01'
+semester:         'Spring 2021'
+url:              https://libatique.info/GREK214-S21
+baseurl:          /
+
+author:
+  name:           'Daniel Libatique'
+  url:            https://libatique.info
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/dlibatique/GREK214-S21
