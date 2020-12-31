@@ -200,7 +200,7 @@ order: 4
       <td>No Class<br>(Academic Conference)</td>
     </tr>
     <tr>
-      <td>F 4/23</td>
+      <td>F 4/30</td>
       <td>Quiz 10 Due<br>Hom. <em>Il.</em> 22.289-316</td>
     </tr>
 
