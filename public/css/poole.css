@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #aa759f;
+  color: #7851a9;
   text-rendering: optimizeLegibility;
 }
 
@@ -266,6 +266,11 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+table.schedule {
+  margin-bottom: 1rem;
+  width: auto;
+}
+
 /*
  * Custom type
  *
@@ -345,7 +350,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #aa759f;
+  color: #7851a9;
 }
 
 .page-title,
