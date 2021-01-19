@@ -11,9 +11,9 @@ Due to the coronavirus pandemic, our plan for the semester will be to use an onl
 
 Class meetings will be recorded and made available to students registered for this class upon request if an accommodation has been granted or if you have missed a class and would like to stay up to date on what we discussed. Duplication or redistribution of video capture recordings by any other party without the consent of the course instructor is prohibited.
 
-Needless to say, these are unprecedented times which call for extraordinary measures. My goal is to set up a distance learning environment that is supportive and safe as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. Please don’t ever hesitate to email me, visit with me during student hours or non-preordained times via appointment, or leave a group or private message in the GroupMe with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme. Here’s a recent favorite of mine: the woman yelling at cat meme with an ancient twist (by [AlexanderPetela on redbubble.com](https://www.redbubble.com/people/alexanderpetela/works/45492270-ancient-greek-vase-cat-meme)):
+Needless to say, these are unprecedented times which call for extraordinary measures. My goal is to set up a distance learning environment that is supportive and safe as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. Please don’t ever hesitate to email me, visit with me during student hours or non-preordained times via appointment, or leave a group or private message in the GroupMe with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme. Here’s a recent favorite of mine:
 
-![](https://ih0.redbubble.net/image.1091780837.2270/flat,1000x1000,075,f.u1.jpg)
+![]({{ site.baseurl }}public/IMG_0877.jpg)
 
 [Return to top.](#top)
 
