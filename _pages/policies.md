@@ -11,9 +11,9 @@ Click [here](https://docs.google.com/document/d/1K69Vpv1CLr0VJAA0rLPTo0A3GE7zwTc
 
 ***
 
-<div class="dropdown">
-  <button class="dropbtn" onclick="toggleDropdown()">Sections <i class="fa fa-caret-down"></i></button>
-  <div class="dropdown-content" id="myDropdown">
+<div class="navdropdown">
+  <button class="navdropbtn" onclick="toggleDropdown()">Sections <i class="fa fa-caret-down"></i></button>
+  <div class="navdropdown-content" id="myDropdown">
     <a href="#online-format-and-the-pandemic">Online Format and the Pandemic</a>
     <a href="#zoom-suggestions">Zoom Suggestions</a>
     <a href="#academic-conduct">Academic Conduct</a>

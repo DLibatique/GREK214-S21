@@ -15,9 +15,9 @@ Under any given date, the reading assignment listed should be prepared for class
 
 ***
 
-<div class="dropdown">
-  <button class="dropbtn" onclick="toggleDropdown()">Week Selection <i class="fa fa-caret-down"></i></button>
-  <div class="dropdown-content" id="myDropdown">
+<div class="navdropdown">
+  <button class="navdropbtn" onclick="toggleDropdown()">Week Selection <i class="fa fa-caret-down"></i></button>
+  <div class="navdropdown-content" id="myDropdown">
     <a href="#week-1">Week 1 (2/1, 2/3, 2/5)</a>
     <a href="#week-2">Week 2 (2/8, 2/10, 2/12)</a>
     <a href="#week-3">Week 3 (2/15, 2/17, 2/19)</a>
