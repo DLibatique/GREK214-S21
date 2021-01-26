@@ -5,228 +5,264 @@ permalink: schedule
 order: 4
 ---
 
-<table class='schedule'>
-  <thead>
-    <th>Week #</th>
-    <th>Day and Date</th>
-    <th>Assignment(s)</th>
-  </thead>
-  <tbody>
+***
 
-    <!-- Week 1 -->
-    <tr>
-      <td rowspan="3">1</td>
-      <td>M 2/1</td>
-      <td>Syllabus Day</td>
-    </tr>
-    <tr>
-      <td>W 2/3</td>
-      <td>Dactylic Hexameter</td>
-    </tr>
-    <tr>
-      <td>F 2/5</td>
-      <td>Homer <em>Iliad</em> 1.1-16</td>
-    </tr>
+Click [here](https://docs.google.com/document/d/1K69Vpv1CLr0VJAA0rLPTo0A3GE7zwTcZcO7Z_YgULMA/edit?usp=sharing) to view this as a Google Doc.
 
-    <!-- Week 2 -->
-    <tr>
-      <td rowspan="3">2</td>
-      <td>M 2/8</td>
-      <td>Quiz 1 Due<br>Hom. <em>Il.</em> 1.17-36</td>
-    </tr>
-    <tr>
-      <td>W 2/10</td>
-      <td>Hom. <em>Il.</em> 1.37-58</td>
-    </tr>
-    <tr>
-      <td>F 2/12</td>
-      <td>Hom. <em>Il.</em> 1.59-79</td>
-    </tr>
+***
 
-    <!-- Week 3 -->
-    <tr>
-      <td rowspan="3">3</td>
-      <td>M 2/15</td>
-      <td>Quiz 2 Due<br>Hom. <em>Il.</em> 1.80-100</td>
-    </tr>
-    <tr>
-      <td>W 2/17</td>
-      <td>Hom. <em>Il.</em> 1.101-120</td>
-    </tr>
-    <tr>
-      <td>F 2/19</td>
-      <td>Hom. <em>Il.</em> 1.121-140</td>
-    </tr>
+Under any given date, the reading assignment listed should be prepared for class on that date. So, for example, on Friday, February 5, you should come to class having prepared Homer *Iliad* 1.1-16. Please note that “prepare” does NOT mean “write out a translation” -- in fact, you are expressly forbidden from writing out a translation to bring to class. “Prepare” means to make grammatical notes (identify person, number, tense, voice, and mood of verbs; gender, case, and number of nouns, adjectives, and participles; etc.), mark your Greek text with syntactic and structural aides (parentheses to sequester clauses or phrases, arrows to indicate possession or modification, underlines, circles, etc.), and note down unfamiliar vocab or conjugations or declensions. Writing out a translation means that you’re not actually doing the work of understanding how the Greek works, which is infinitely more important than coming up with a “perfect” translation.
 
-    <!-- Week 4 -->
-    <tr>
-      <td rowspan="3">4</td>
-      <td>M 2/22</td>
-      <td>Quiz 3 Due<br>Hom. <em>Il.</em> 1.141-160</td>
-    </tr>
-    <tr>
-      <td>W 2/24</td>
-      <td>Hom. <em>Il.</em> 1.161-181</td>
-    </tr>
-    <tr>
-      <td>F 2/26</td>
-      <td>Hom. <em>Il.</em> 1.182-201</td>
-    </tr>
+***
 
-    <!-- Week 5 -->
-    <tr>
-      <td rowspan="3">5</td>
-      <td>M 3/1</td>
-      <td>Quiz 4 Due<br>Hom. <em>Il.</em> 1.202-222</td>
-    </tr>
-    <tr>
-      <td>W 3/3</td>
-      <td>Hom. <em>Il.</em> 1.223-246</td>
-    </tr>
-    <tr>
-      <td>F 3/5</td>
-      <td>Hom. <em>Il.</em> 16.1-24</td>
-    </tr>
+<div class="dropdown">
+  <button class="dropbtn" onclick="toggleDropdown()">Week Selection <i class="fa fa-caret-down"></i></button>
+  <div class="dropdown-content" id="myDropdown">
+    <a href="#week-1">Week 1 (2/1, 2/3, 2/5)</a>
+    <a href="#week-2">Week 2 (2/8, 2/10, 2/12)</a>
+    <a href="#week-3">Week 3 (2/15, 2/17, 2/19)</a>
+    <a href="#week-4">Week 4 (2/22, 2/24, 2/26)</a>
+    <a href="#week-5">Week 5 (3/1, 3/3, 3/5)</a>
+    <a href="#week-6">Week 6 (3/8, 3/10, 3/12)</a>
+    <a href="#week-7">Week 7 (3/15, 3/17, 3/19)</a>
+    <a href="#week-8">Week 8 (3/22, 3/24, 3/26)</a>
+    <a href="#week-9">Week 9 (3/29, 3/31)</a>
+    <a href="#week-10">Week 10 (4/7, 4/9)</a>
+    <a href="#week-11">Week 11 (4/12, 4/14, 4/16)</a>
+    <a href="#week-12">Week 12 (4/19, 4/21, 4/23)</a>
+    <a href="#week-13">Week 13 (4/26, 4/30)</a>
+    <a href="#week-14">Week 14 (5/3, 5/5, 5/7)</a>
+  </div>
+</div>
 
-    <!-- Week 6 -->
-    <tr>
-      <td rowspan="3">6</td>
-      <td>M 3/8</td>
-      <td>Exam 1 Due<br>Hom. <em>Il.</em> 16.25-51</td>
-    </tr>
-    <tr>
-      <td>W 3/10</td>
-      <td>Hom. <em>Il.</em> 16.52-73</td>
-    </tr>
-    <tr>
-      <td>F 3/12</td>
-      <td>Hom. <em>Il.</em> 16.74-100</td>
-    </tr>
+***
 
-    <!-- Week 7 -->
-    <tr>
-      <td rowspan="3">7</td>
-      <td>M 3/15</td>
-      <td>Quiz 5 Due<br>Hom. <em>Il.</em> 16.663-690</td>
-    </tr>
-    <tr>
-      <td>W 3/17</td>
-      <td>Hom. <em>Il.</em> 16.691-714</td>
-    </tr>
-    <tr>
-      <td>F 3/19</td>
-      <td>Hom. <em>Il.</em> 16.715-743</td>
-    </tr>
+## Week 1
 
-    <!-- Week 8 -->
-    <tr>
-      <td rowspan="3">8</td>
-      <td>M 3/22</td>
-      <td>Quiz 6 Due<br>Hom. <em>Il.</em> 16.744-769</td>
-    </tr>
-    <tr>
-      <td>W 3/24</td>
-      <td>Hom. <em>Il.</em> 16.770-793</td>
-    </tr>
-    <tr>
-      <td>F 3/26</td>
-      <td>Hom. <em>Il.</em> 16.794-822</td>
-    </tr>
+### Monday, February 1
+Syllabus Day
 
-    <!-- Week 9 -->
-    <tr>
-      <td rowspan="2">9</td>
-      <td>M 3/29</td>
-      <td>Quiz 7 Due<br>Hom. <em>Il.</em> 16.823-842</td>
-    </tr>
-    <tr>
-      <td>W 3/31</td>
-      <td>Hom. <em>Il.</em> 16.843-867</td>
-    </tr>
+### Wednesday, February 3
+* read entire syllabus (i.e., the [policies](policies) and [grading](grading) sections of this site)
+* complete [student information form](https://forms.gle/1EkwwErBKskJxMdt8)
+* Homeric Morphology and Syntax, Dactylic Hexameter
 
-    <tr>
-      <td colspan="3"><strong>Easter Break: 4/1 - 4/6</strong></td>
-    </tr>
+### Friday, February 5
+Homer *Iliad* 1.1-16
 
-    <!-- Week 10 -->
-    <tr>
-      <td rowspan="2">10</td>
-      <td>W 4/7</td>
-      <td>Exam 2 Due<br>Hom. <em>Il.</em> 18.1-25</td>
-    </tr>
-    <tr>
-      <td>F 4/9</td>
-      <td>Hom. <em>Il.</em> 18.26-51</td>
-    </tr>
+[Return to top.](#top)
 
-    <!-- Week 11 -->
-    <tr>
-      <td rowspan="3">11</td>
-      <td>M 4/12</td>
-      <td>Hom. <em>Il.</em> 18.52-77</td>
-    </tr>
-    <tr>
-      <td>W 4/14</td>
-      <td>Quiz 8 Due<br>Hom. <em>Il.</em> 18.78-106</td>
-    </tr>
-    <tr>
-      <td>F 4/16</td>
-      <td>Hom. <em>Il.</em> 18.107-126</td>
-    </tr>
+***
 
-    <!-- Week 12 -->
-    <tr>
-      <td rowspan="3">12</td>
-      <td>M 4/19</td>
-      <td>Hom. <em>Il.</em> 22.188-213</td>
-    </tr>
-    <tr>
-      <td>W 4/21</td>
-      <td>Quiz 9 Due<br>Hom. <em>Il.</em> 22.214-237</td>
-    </tr>
-    <tr>
-      <td>F 4/23</td>
-      <td>Hom. <em>Il.</em> 22.238-259</td>
-    </tr>
+## Week 2
 
-    <!-- Week 13 -->
-    <tr>
-      <td rowspan="3">13</td>
-      <td>M 4/26</td>
-      <td>Hom. <em>Il.</em> 22.260-288</td>
-    </tr>
-    <tr>
-      <td>W 4/28</td>
-      <td>No Class<br>(Academic Conference)</td>
-    </tr>
-    <tr>
-      <td>F 4/30</td>
-      <td>Quiz 10 Due<br>Hom. <em>Il.</em> 22.289-316</td>
-    </tr>
+### Monday, February 8
+* Quiz 1 Due
+* Hom. *Il.* 1.17-36
 
-    <!-- Week 14 -->
-    <tr>
-      <td rowspan="3">14</td>
-      <td>M 5/3</td>
-      <td>Hom. <em>Il.</em> 22.317-343</td>
-    </tr>
-    <tr>
-      <td>W 5/5</td>
-      <td>Hom. <em>Il.</em> 22.344-366</td>
-    </tr>
-    <tr>
-      <td>F 5/7</td>
-      <td>In Conclusion</td>
-    </tr>
+### Wednesday, February 10
+Hom. *Il.* 1.37-58
 
-    <tr>
-      <td colspan="3"><strong>Study Period: 5/8 - 5/11</strong></td>
-    </tr>
+### Friday, February 12
+Hom. *Il.* 1.59-79
 
-    <tr>
-      <td colspan="3"><strong>Exam Period: 5/12 - 5/18</strong><br>(Exam 3 due during exam period)</td>
-    </tr>
+[Return to top.](#top)
 
+***
 
-  </tbody>
-</table>
+## Week 3
+
+### Monday, February 15
+* Quiz 2 Due
+* Hom. *Il.* 1.80-100
+
+### Wednesday, February 17
+Hom. *Il.* 1.101-120
+
+### Friday, February 19
+Hom. *Il.* 1.121-140
+
+[Return to top.](#top)
+
+***
+
+## Week 4
+
+### Monday, February 22
+* Quiz 3 Due
+* Hom. *Il.* 1.141-160
+
+### Wednesday, February 24
+Hom. *Il.* 1.161-181
+
+### Friday, February 26
+Hom. *Il.* 1.182-201
+
+[Return to top.](#top)
+
+***
+
+## Week 5
+
+### Monday, March 1
+* Quiz 4 Due
+* Hom. *Il.* 1.202-222
+
+### Wednesday, March 3
+Hom. *Il.* 1.223-246
+
+### Friday, March 5
+Hom. *Il.* 16.1-24
+
+[Return to top.](#top)
+
+***
+
+## Week 6
+
+### Monday, March 8
+* Exam 1 Due
+* Hom. *Il.* 16.25-51
+
+### Wednesday, March 10
+Hom. *Il.* 16.52-73
+
+### Friday, March 12
+Hom. *Il.* 16.74-100
+
+[Return to top.](#top)
+
+***
+
+## Week 7
+
+### Monday, March 15
+* Quiz 5 Due
+* Hom. *Il.* 16.663-690
+
+### Wednesday, March 17
+Hom. *Il.* 16.691-714
+
+### Friday, March 19
+Hom. *Il.* 16.715-743
+
+[Return to top.](#top)
+
+***
+
+## Week 8
+
+### Monday, March 22
+* Quiz 6 Due
+* Hom. *Il.* 16.744-769
+
+### Wednesday, March 24
+Hom. *Il.* 16.770-793
+
+### Friday, March 26
+Hom. *Il.* 16.794-822
+
+[Return to top.](#top)
+
+***
+
+## Week 9
+
+### Monday, March 29
+* Quiz 7 Due
+* Hom. *Il.* 16.823-842
+
+### Wednesday, March 31
+Hom. *Il.* 16.843-867
+
+[Return to top.](#top)
+
+***
+
+**Easter Break**: 4/1 - 4/6
+
+***
+
+## Week 10
+
+### Wednesday, April 7
+* Exam 2 Due
+* Hom. *Il.* 18.1-25
+
+### Friday, April 9
+Hom. *Il.* 18.26-51
+
+[Return to top.](#top)
+
+***
+
+## Week 11
+
+### Monday, April 12
+Hom. *Il.* 18.52-77
+
+### Wednesday, April 14
+* Quiz 8 Due
+* Hom. *Il.* 18.78-106
+
+### Friday, April 16
+Hom. *Il.* 18.107-126
+
+[Return to top.](#top)
+
+***
+
+## Week 12
+
+### Monday, April 19
+Hom. *Il.* 22.188-213
+
+### Wednesday, April 21
+* Quiz 9 Due
+* Hom. *Il.* 22.214-237
+
+### Friday, April 23
+Hom. *Il.* 22.238-259
+
+[Return to top.](#top)
+
+***
+
+## Week 13
+
+### Monday, April 26
+Hom. *Il.* 22.260-288
+
+### Wednesday, April 28
+No class (Academic Conference)
+
+### Friday, April 30
+* Quiz 10 Due
+* Hom. *Il.* 22.289-316
+
+[Return to top.](#top)
+
+***
+
+## Week 14
+
+### Monday, May 3
+Hom. *Il.* 22.317-343
+
+### Wednesday, May 5
+Hom. *Il.* 22.344-366
+
+### Friday, May 7
+In Conclusion
+
+[Return to top.](#top)
+
+***
+
+**Study Period**: 5/8 - 5/11  
+**Exam Period**: 5/12 - 5/18  
+(Exam 3 due during exam period)
+
+[Return to top.](#top)
+
+***

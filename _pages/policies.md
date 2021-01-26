@@ -5,6 +5,29 @@ permalink: policies
 order: 2
 ---
 
+***
+
+Click [here](https://docs.google.com/document/d/1K69Vpv1CLr0VJAA0rLPTo0A3GE7zwTcZcO7Z_YgULMA/edit?usp=sharing) to view this as a Google Doc.
+
+***
+
+<div class="dropdown">
+  <button class="dropbtn" onclick="toggleDropdown()">Sections <i class="fa fa-caret-down"></i></button>
+  <div class="dropdown-content" id="myDropdown">
+    <a href="#online-format-and-the-pandemic">Online Format and the Pandemic</a>
+    <a href="#zoom-suggestions">Zoom Suggestions</a>
+    <a href="#academic-conduct">Academic Conduct</a>
+    <a href="#student-hours">Student Hours</a>
+    <a href="#gender-expression-and-identity">Gender Expression and Identity</a>
+    <a href="#diversity-inclusion-and-respect">Diversity, Inclusion, and Respect</a>
+    <a href="#accessibility">Accessibility</a>
+    <a href="#external-resources">External Resources</a>
+    <a href="#mandated-reporter">Mandated Reporter</a>
+  </div>
+</div>
+
+***
+
 ## Online Format and the Pandemic
 
 Due to the coronavirus pandemic, our plan for the semester will be to use an online format. We will meet synchronously via Zoom at our registrar-appointed meeting times (MWF 9:15-10:05am Eastern). The nature of the class makes it difficult to complete the course objectives and participate in the community of the class without synchronous attendance, so if you anticipate any difficulties or obstacles in meeting at our prescribed times, please contact me so that we can work out a plan.

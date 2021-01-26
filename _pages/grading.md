@@ -5,6 +5,12 @@ permalink: grading
 order: 3
 ---
 
+***
+
+Click [here](https://docs.google.com/document/d/1K69Vpv1CLr0VJAA0rLPTo0A3GE7zwTcZcO7Z_YgULMA/edit?usp=sharing) to view this as a Google Doc.
+
+***
+
 ## Participation: 35%
 
 This section of your semester grade will come from participating in class, which means demonstrating that you’ve read the assignment before the class period in question (including noting vocabulary, syntactic constructions, any questions that you have about the grammar or vocab), engaging with your classmates and me, asking appropriate questions and requesting appropriate clarifications, and paying attention throughout the class period.
@@ -13,7 +19,7 @@ This section of your semester grade will come from participating in class, which
 
 ## Recitation: 5%
 
-You will be asked to recite **ten (10) lines** of your choice from Homer’s *Iliad* with proper pronunciation and meter. Brownie points for tone and inflection. You do NOT need to memorize; you can have the text in front of you, marked however you’d like to help with your reading. You can either do this live via a one-on-one Zoom meeting or via an audio or video recording. You may complete this assignment at any point in the semester, though I recommend later in the semester to ensure you have a good grasp on dactylic hexameter. More specific guidelines to come.
+You will be asked to recite **7-12 lines** of your choice from Homer’s *Iliad* with proper pronunciation and meter. Brownie points for tone and inflection. The most straightforward passage to choose would be the proem (1.1-7). You do NOT need to memorize; you can have the text in front of you, marked however you’d like to help with your reading. You can either do this live via a one-on-one Zoom meeting or via an audio or video recording. You may complete this assignment at any point in the semester, though I recommend later in the semester to ensure you have a good grasp on dactylic hexameter. More specific guidelines to come.
 
 ***
 

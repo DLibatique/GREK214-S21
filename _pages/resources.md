@@ -10,7 +10,7 @@ order: 1
 1. Benner, Allen Rogers. [*Selections from Homer’s* Iliad.](https://www.amazon.com/Selections-Homers-Iliad-Rogers-Benner/dp/0806133635/ref=sr_1_1?dchild=1&keywords=benner+iliad&qid=1609297804&s=books&sr=1-1) Norman: University of Oklahoma Press, 2001. ISBN-13: 978-0806133638
   * [PDF version](https://ia800703.us.archive.org/22/items/selectionsfromh01brengoog/selectionsfromh01brengoog.pdf)
   * [Perseus: Benner's notes](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0083)
-  * [Perseus: Benner's appendix (scansion, grammar, etc.)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0083)
+  * [Perseus: Benner's appendix (scansion, grammar, etc.)](http://www.perseus.tufts.edu/hopper/disppref?url=/hopper/text?doc=Perseus%3Atext%3A1999.04.0083&default.scheme=appendix%3Apart%3Asection*&default.type=appendix)
 
 2. [Perseus: Homer's text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0133)
 
