@@ -25,12 +25,12 @@ You will be asked to recite **7-12 lines** of your choice from Homer’s *Iliad*
 
 ## Quizzes: 30%
 
-There will be **ten (10) quizzes** throughout the semester, **each weighted at 3%**, designed to test your mastery of vocabulary, grammar, and translation.  Each quiz will be taken outside of class time, and they will be open-book, open-note, and open-Internet. The quiz schedule is included in the detailed schedule below. More details to come.
+There will be **ten (10) quizzes** throughout the semester, **each weighted at 3%**, designed to test your mastery of vocabulary, grammar, and translation.  Each quiz will be taken outside of class time, and they will be open-book, open-note, and open-Internet. The quiz schedule is included in the [course schedule](schedule). More details to come.
 
 ***
 
 ## Three (3) exams: 30%
-There will be **three (3) exams (each worth 10%)** this semester. All three exams will be open-note, open-book, open-Internet exams that you will complete outside of class. Each will include morphological and grammar questions, translation prompts (for both passages prepared in class and in homework and passages at sight), scansion exercises, and comprehension questions/essays. The due dates of each exam are listed below, with the third exam due at the endpoint of our registrar-appointed final exam time during finals period. More details to come.
+There will be **three (3) exams (each worth 10%)** this semester. All three exams will be open-note, open-book, open-Internet exams that you will complete outside of class. Each will include morphological and grammar questions, translation prompts (for both passages prepared in class and in homework and passages at sight), scansion exercises, and comprehension questions/essays. The due dates of each exam are listed in the [course schedule](schedule), with the third exam due at the endpoint of our registrar-appointed final exam time during finals period. More details to come.
 
 ***
 

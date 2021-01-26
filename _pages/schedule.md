@@ -57,7 +57,7 @@ Homer *Iliad* 1.1-16
 ## Week 2
 
 ### Monday, February 8
-* Quiz 1 Due
+* [Quiz 1](https://hc.instructure.com/courses/2941/assignments/31052) Due
 * Hom. *Il.* 1.17-36
 
 ### Wednesday, February 10
@@ -73,7 +73,7 @@ Hom. *Il.* 1.59-79
 ## Week 3
 
 ### Monday, February 15
-* Quiz 2 Due
+* [Quiz 2](https://hc.instructure.com/courses/2941/assignments/31054) Due
 * Hom. *Il.* 1.80-100
 
 ### Wednesday, February 17
@@ -89,7 +89,7 @@ Hom. *Il.* 1.121-140
 ## Week 4
 
 ### Monday, February 22
-* Quiz 3 Due
+* [Quiz 3](https://hc.instructure.com/courses/2941/assignments/31056) Due
 * Hom. *Il.* 1.141-160
 
 ### Wednesday, February 24
@@ -105,7 +105,7 @@ Hom. *Il.* 1.182-201
 ## Week 5
 
 ### Monday, March 1
-* Quiz 4 Due
+* [Quiz 4](https://hc.instructure.com/courses/2941/assignments/31057) Due
 * Hom. *Il.* 1.202-222
 
 ### Wednesday, March 3
@@ -121,7 +121,7 @@ Hom. *Il.* 16.1-24
 ## Week 6
 
 ### Monday, March 8
-* Exam 1 Due
+* [Exam 1](https://hc.instructure.com/courses/2941/assignments/31048) Due
 * Hom. *Il.* 16.25-51
 
 ### Wednesday, March 10
@@ -137,7 +137,7 @@ Hom. *Il.* 16.74-100
 ## Week 7
 
 ### Monday, March 15
-* Quiz 5 Due
+* [Quiz 5](https://hc.instructure.com/courses/2941/assignments/31065) Due
 * Hom. *Il.* 16.663-690
 
 ### Wednesday, March 17
@@ -153,7 +153,7 @@ Hom. *Il.* 16.715-743
 ## Week 8
 
 ### Monday, March 22
-* Quiz 6 Due
+* [Quiz 6](https://hc.instructure.com/courses/2941/assignments/31068) Due
 * Hom. *Il.* 16.744-769
 
 ### Wednesday, March 24
@@ -169,7 +169,7 @@ Hom. *Il.* 16.794-822
 ## Week 9
 
 ### Monday, March 29
-* Quiz 7 Due
+* [Quiz 7](https://hc.instructure.com/courses/2941/assignments/31069) Due
 * Hom. *Il.* 16.823-842
 
 ### Wednesday, March 31
@@ -186,7 +186,7 @@ Hom. *Il.* 16.843-867
 ## Week 10
 
 ### Wednesday, April 7
-* Exam 2 Due
+* [Exam 2](https://hc.instructure.com/courses/2941/assignments/31049) Due
 * Hom. *Il.* 18.1-25
 
 ### Friday, April 9
@@ -202,7 +202,7 @@ Hom. *Il.* 18.26-51
 Hom. *Il.* 18.52-77
 
 ### Wednesday, April 14
-* Quiz 8 Due
+* [Quiz 8](https://hc.instructure.com/courses/2941/assignments/31071) Due
 * Hom. *Il.* 18.78-106
 
 ### Friday, April 16
@@ -218,7 +218,7 @@ Hom. *Il.* 18.107-126
 Hom. *Il.* 22.188-213
 
 ### Wednesday, April 21
-* Quiz 9 Due
+* [Quiz 9](https://hc.instructure.com/courses/2941/assignments/31072) Due
 * Hom. *Il.* 22.214-237
 
 ### Friday, April 23
@@ -237,7 +237,7 @@ Hom. *Il.* 22.260-288
 No class (Academic Conference)
 
 ### Friday, April 30
-* Quiz 10 Due
+* [Quiz 10](https://hc.instructure.com/courses/2941/assignments/31073) Due
 * Hom. *Il.* 22.289-316
 
 [Return to top.](#top)
@@ -261,7 +261,7 @@ In Conclusion
 
 **Study Period**: 5/8 - 5/11  
 **Exam Period**: 5/12 - 5/18  
-(Exam 3 due during exam period)
+([Exam 3](https://hc.instructure.com/courses/2941/assignments/31049) due during exam period)
 
 [Return to top.](#top)
 
