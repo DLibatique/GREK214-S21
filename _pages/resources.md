@@ -44,3 +44,21 @@ order: 1
 2. Lattimore, Richmond, trans. [*The* Iliad *of Homer*.](https://www.amazon.com/Iliad-Homer-Richmond-Lattimore/dp/0226470490) Chicago: University of Chicago Press, 2011. ISBN-13: 978-0226470498
 
 Please note that purchasing physical copies of both texts is **optional**. The Benner text is available for free as a PDF, linked above. The Lattimore translation is simply a suggested translation to use as a guide as you read through the Greek; it is highly faithful to the line numbers and the original language. However, besides Lattimore, there are free (though a bit archaic) translations available online.
+
+***
+
+## Academic Resources
+
+* [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources)
+* [Center for Writing](https://www.holycross.edu/academics/support-and-resources/center-for-writing) ([Writers Workshop](https://www.holycross.edu/academics/support-and-resources/center-for-writing/writers-workshop))
+* [Class Deans](https://www.holycross.edu/mentored-learning/class-deans)
+* [Library](https://www.holycross.edu/support-and-resources/holy-cross-libraries)
+* [Office of Accessibility Services](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services)
+
+***
+
+## Student Support Resources
+
+* [Counseling Center](https://www.holycross.edu/health-wellness-and-access/counseling-center)
+* [Office of Diversity, Inclusion, and Equity](https://www.holycross.edu/campus-life/diversity-and-inclusion)
+* [Office of Multicultural Education](https://www.holycross.edu/diversity-and-inclusion/office-multicultural-education)
