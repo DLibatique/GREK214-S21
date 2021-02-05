@@ -14,26 +14,28 @@ order: 1
 
 2. [Perseus: Homer's text](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0133)
 
-3. Cunliffe, Richard John. *A Lexicon of the Homeric Dialect: Expanded Edition.* Norman: University of Oklahoma Press, 2012. ISBN-13: 978-0806143088
+3. [Class Notes](https://drive.google.com/drive/folders/19QB_hzypBGCjyAGgw2YbfuLWsqN6bCWi?usp=sharing): A Google Drive folder with all the PDFs that I use for in-class notes and live annotations.
+
+4. Cunliffe, Richard John. *A Lexicon of the Homeric Dialect: Expanded Edition.* Norman: University of Oklahoma Press, 2012. ISBN-13: 978-0806143088
   * [Cunliffe Online Database](http://stephanus.tlg.uci.edu/cunliffe/#eid=1&context=lsj)
 
-4. Owen, William Bishop and Edgar Johnson Goodspeed. *Homeric Vocabularies: Greek and English Word-Lists for the Study of Homer*, 2nd Edition. Norman: University of Oklahoma Press, 1969.
+5. Owen, William Bishop and Edgar Johnson Goodspeed. *Homeric Vocabularies: Greek and English Word-Lists for the Study of Homer*, 2nd Edition. Norman: University of Oklahoma Press, 1969.
   * [PDF version](https://ia802700.us.archive.org/33/items/homericvocabula00goodgoog/homericvocabula00goodgoog.pdf)
 
-5. Liddell, Henry George and Robert Scott Jones. *A Greek-English Lexicon*, 9th ed. Oxford: Clarendon Press, 1925-1940.
+6. Liddell, Henry George and Robert Scott Jones. *A Greek-English Lexicon*, 9th ed. Oxford: Clarendon Press, 1925-1940.
   * [Online version](http://stephanus.tlg.uci.edu/lsj/#eid=1&context=lsj)
 
-6. Smyth, Herbert Weir. *A Greek Grammar for Colleges*. Cambridge: Harvard University Press, 1920.
+7. Smyth, Herbert Weir. *A Greek Grammar for Colleges*. Cambridge: Harvard University Press, 1920.
   * [Smyth online at Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.04.0007)
   * [PDF version](https://pure.mpg.de/rest/items/item_402120/component/file_402119/content)
 
-7. Paradigm list and verb quiz - Sphinx Classical Grammar Drill
+8. Paradigm list and verb quiz - Sphinx Classical Grammar Drill
   * [Sphinx website](http://sphinx.metameat.net/sphinx.php?paradigms)
 
-8. Conditional Clauses chart (credit to Prof. Stephen Esposito, BU)
+9. Conditional Clauses chart (credit to Prof. Stephen Esposito, BU)
   * [Chart image](https://dlibatique.github.io/images/conditions-chart.tif)
 
-9. Dependent Clauses chart (credit to Prof. Stephen Esposito, BU)
+10. Dependent Clauses chart (credit to Prof. Stephen Esposito, BU)
   * [Chart image](https://dlibatique.github.io/images/dependent-clause-chart.tif)
 
 ***
