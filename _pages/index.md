@@ -10,10 +10,9 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Wednesday, February 3
-* read entire syllabus (i.e., the [policies](policies) and [grading](grading) sections of this site)
-* complete [student information form](https://forms.gle/1EkwwErBKskJxMdt8)
-* **OPTIONAL**: read through [Benner's explanation of dactylic hexameter](http://www.perseus.tufts.edu/hopper/disppref?url=/hopper/text?doc=Perseus%3Atext%3A1999.04.0083&default.scheme=appendix%3Apart%3Asection*&default.type=part)
+### Due: Monday, February 8
+* [Quiz 1](https://hc.instructure.com/courses/2941/assignments/31052)
+* Hom. *Il.* 1.17-36
 
 ***
 
