@@ -65,7 +65,7 @@ Homer *Iliad* 1.1-16
 Hom. *Il.* 1.37-58
 
 ### Friday, February 12
-Hom. *Il.* 1.59-79
+Hom. *Il.* 1.59-73
 
 [Return to top.](#top)
 
@@ -75,10 +75,10 @@ Hom. *Il.* 1.59-79
 
 ### Monday, February 15
 * [Quiz 2](https://hc.instructure.com/courses/2941/assignments/31054) Due
-* Hom. *Il.* 1.80-100
+* Hom. *Il.* 1.74-96
 
 ### Wednesday, February 17
-Hom. *Il.* 1.101-120
+Hom. *Il.* 1.97-120
 
 ### Friday, February 19
 Hom. *Il.* 1.121-140
