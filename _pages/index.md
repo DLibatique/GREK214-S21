@@ -10,15 +10,15 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Due: Monday, February 15
-* [Quiz 2](https://hc.instructure.com/courses/2941/assignments/31054) Due
-* Hom. *Il.* 1.74-96
+### Due: Monday, February 22
+* [Quiz 3](https://hc.instructure.com/courses/2941/assignments/31056) Due
+* Hom. *Il.* 1.141-160
 
-### Due: Wednesday, February 17
-Hom. *Il.* 1.97-120
+### Due: Wednesday, February 24
+Hom. *Il.* 1.161-181
 
-### Due: Friday, February 19
-Hom. *Il.* 1.121-140
+### Due: Friday, February 26
+Hom. *Il.* 1.182-201
 
 ***
 
