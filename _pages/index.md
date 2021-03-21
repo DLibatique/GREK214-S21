@@ -10,15 +10,15 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Monday, March 15
-* [Quiz 5](https://hc.instructure.com/courses/2941/assignments/31065) Due
-* Hom. *Il.* 16.663-690
+### Monday, March 22
+* [Quiz 6](https://hc.instructure.com/courses/2941/assignments/31068) Due
+* Hom. *Il.* 16.744-769
 
-### Wednesday, March 17
-Hom. *Il.* 16.691-714
+### Wednesday, March 24
+Hom. *Il.* 16.770-793
 
-### Friday, March 19
-Hom. *Il.* 16.715-743
+### Friday, March 26
+Hom. *Il.* 16.794-822
 
 ***
 
