@@ -10,15 +10,15 @@ permalink: /
 
 ## NEXT DEADLINES
 
-### Monday, April 19
-Hom. *Il.* 22.188-213
+### Monday, April 26
+Hom. *Il.* 22.260-288
 
-### Wednesday, April 21
-* [Quiz 9](https://hc.instructure.com/courses/2941/assignments/31072) Due
-* Hom. *Il.* 22.214-237
+### Wednesday, April 28
+No class (Academic Conference)
 
-### Friday, April 23
-Hom. *Il.* 22.238-259
+### Friday, April 30
+* [Quiz 10](https://hc.instructure.com/courses/2941/assignments/31073) Due
+* Hom. *Il.* 22.289-316
 
 ***
 
